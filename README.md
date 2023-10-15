@@ -1,6 +1,6 @@
 # Fan-engagement_Cricket_Sentient-analysis
 
-Sentient Analysis model that gives emotion recommendations for cricket fans based on their heart rate 
+Sentient Analysis model that gives emotion recommendations and henceforth engagement in match for cricket fans based on their heart rate 
 
 Using basic recurrent neural networks for emotion predictions 
 
