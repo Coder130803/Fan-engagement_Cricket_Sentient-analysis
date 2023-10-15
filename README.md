@@ -4,4 +4,4 @@ Sentient Analysis model that gives emotion recommendations for cricket fans base
 
 Using basic recurrent neural networks for emotion predictions 
 
-Emotions are pre-determined using statistical features 
+Emotions from heart rate values and ranges are pre-determined using statistical features 
